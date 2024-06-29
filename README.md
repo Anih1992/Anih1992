@@ -1,4 +1,4 @@
-- 👋 Hi there,
+- 👋 Hi There,
 
 
   MEET GENEVIEVE ONUABUCHI 
@@ -8,5 +8,5 @@
 * 📫 my interest in data analytics anchors majorily on data cleaning, data analysis, data visulaization as i believe they play a crucial role in transforming raw data into transforming raww
   data into actionable inteligence 
 * 😄 i am excited to continue learning and growing in the dynamic field of data analysis.
-* ⚡ Fun fact: i open forcollaboration and learning the career guidance as i begin this adventure.
+* ⚡ Fun fact: i open for collaboration and learning the career guidance as i begin this adventure.
 * feel free to contact me on [linkedin](https://www.linkedin.com/in/anih-genevieve-102196213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
